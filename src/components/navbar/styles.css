@@ -1,0 +1,13 @@
+.title {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.NavLink {
+  text-decoration: none;
+}
+
+.NavBtn {
+  color: #fff !important;
+  margin-right: 25px !important;
+}

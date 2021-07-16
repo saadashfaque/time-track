@@ -1,0 +1,20 @@
+.Divider {
+  border-top: 2px solid #3f51b5;
+  margin: 0;
+}
+
+.PlayArrowIcon {
+  color: #4caf50;
+}
+
+.Timer {
+  margin-left: 10px;
+}
+
+#outlined-basic {
+  height: 0;
+}
+
+.input-container {
+  padding-top: 10px;
+}
